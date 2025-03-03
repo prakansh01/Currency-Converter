@@ -4,6 +4,10 @@
     font-family: sans-serif;
 }
 
+body {
+    background: #fff;
+}
+
 header h1 {
     text-align: center;
     height: 4rem;
